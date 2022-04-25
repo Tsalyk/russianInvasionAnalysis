@@ -10,7 +10,7 @@ The project is aimed to warn russian army and convince them to stop taking part 
 ### 90 days of the war
 Here it is the possible scenario of the personnel losses, if invasion will continue
 
-![1](file:///Users/markiian_tsalyk/Desktop/Screenshot%202022-04-25%20at%2021.22.42%20Medium.jpeg)
+![1](https://user-images.githubusercontent.com/73395389/165152613-27e7556e-6e95-46ff-854e-11c3a6284d8c.png)
 ***
 ### Data source
 [General Staff of the Armed Forces of Ukraine](https://www.facebook.com/GeneralStaff.ua)
