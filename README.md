@@ -11,6 +11,7 @@ The project is aimed to warn russian army and convince them to stop taking part 
 Here it is the possible scenario of the personnel losses, if invasion will continue
 
 <img src= "https://user-images.githubusercontent.com/73395389/170768969-918228db-0d81-4828-a8c3-bc7a6d23c314.png" width="400">
+
 ***
 ### Data source
 [General Staff of the Armed Forces of Ukraine](https://www.facebook.com/GeneralStaff.ua)
