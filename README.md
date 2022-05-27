@@ -2,7 +2,7 @@
 ## EDA + regression model
 ***
 ### Description
-This project contains exploratory data analysis about russian invasion and losses of russian arm forces. As well, the regression model is developed to predict future losses of personnel.
+This project contains exploratory data analysis about russian invasion and losses of russian arm forces. As well, ARIMA model is developed to forecast future personnel losses.
 ***
 ### Aim
 The project is aimed to warn russian army and convince them to stop taking part in the bloody war. It shows up unbiased statistics which represent that losses rapidly increase daily.
