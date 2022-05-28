@@ -7,7 +7,7 @@ This project contains exploratory data analysis about russian invasion and losse
 ### Aim
 The project is aimed to warn russian army and convince them to stop taking part in the bloody war. It shows up unbiased statistics which represent that losses rapidly increase daily.
 ***
-### 90 days of the war
+### 120 days of the war
 Here it is the possible scenario of the personnel losses, if invasion will continue
 
 <img src= "https://user-images.githubusercontent.com/73395389/170768969-918228db-0d81-4828-a8c3-bc7a6d23c314.png" width="400">
