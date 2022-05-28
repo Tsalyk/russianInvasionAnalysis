@@ -1,5 +1,5 @@
 # russian Invasion Analysis
-## EDA + regression model
+## EDA + ARIMA model
 ***
 ### Description
 This project contains exploratory data analysis about russian invasion and losses of russian arm forces. As well, ARIMA model is developed to forecast future personnel losses.
